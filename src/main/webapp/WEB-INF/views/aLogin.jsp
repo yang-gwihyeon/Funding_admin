@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>admin page</title>
+<title>admin page login</title>
 <style type="text/css">
 html {
 	height: 100%;
